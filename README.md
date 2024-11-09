@@ -1,9 +1,9 @@
 # Hi there! I'm @sergianafr 👋
 
-I'm an aspiring developer with a passion for creating and learning in the world of **web development**, **mobile development**, and **all things tech**.
+I'm an aspiring developer with a passion for creating and learning in the world of **web development**, **mobile development**, **machine learning** and **all things tech**.
 
 ## 👀 A Little About Me
-- 🌱 **Currently Learning**: I’m diving into **React**, **Spring Boot**, and **.NET** to build strong foundations in both front-end and back-end development. I’m also exploring other aspects of programming to grow into a versatile developer.
+- 🌱 **Currently Learning**: **React**, **Spring Boot**, and **.NET** to build strong foundations in both front-end and back-end development. I’m also exploring other aspects of programming to grow into a versatile developer.
 - 💡 **Always Curious**: Technology is constantly evolving, and so am I! Whether it’s a new language, framework, or tool, I’m always excited to see what I can learn and apply.
 - 🤝 **Open to Collaborate**: I'm eager to collaborate on any project that can teach me more about development.
 
